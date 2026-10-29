@@ -1,0 +1,6 @@
+bot.py
+.env
+__pycache__/
+*.pyc
+logo_b64.txt
+
